@@ -1,7 +1,7 @@
 export default function Notas() {
   return (
     <>
-      <h1>About Us</h1>
+      <h1>About US</h1>
       <h2>Voy a precisar comsumir API de Wikipedia</h2>
       <p>
         Programmers should be considered like musicians or writers: they take
