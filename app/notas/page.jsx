@@ -1,8 +1,8 @@
 export default function Notas() {
   return (
     <>
-      <h3>About Us</h3>
-      <h2>Comsumir API de Wikipedia</h2>
+      <h1>About Us</h1>
+      <h2>Voy a precisar comsumir API de Wikipedia</h2>
       <p>
         Programmers should be considered like musicians or writers: they take
         elements of a certain language and put them toghether to create an
@@ -14,8 +14,8 @@ export default function Notas() {
       form hay un checkbox con el que el usuario inicia sesión con Google,
       GitHub o Facebook. Sólo un check box.
       <p>
-        Creemos que los distinguidos postulados, debido a sus contribuciones a
-        la disciplina, se ganó la distinción de estar en Wikipedia
+        Asumimos que los postulados, debido a sus contribuciones a la
+        disciplina, se ganaron la distinción de estar en Wikipedia
       </p>
       <p>Form:</p>
       <p>Candidato (poner filtro con el array de candidatos)</p>
@@ -23,6 +23,7 @@ export default function Notas() {
         Radio button, o checkbox o loguitos para iniciar sesión con Google, FB,
         o Github
       </p>
+      <p>Para programadores: poner link al github del proyecto</p>
     </>
   );
 }

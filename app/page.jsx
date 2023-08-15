@@ -1,3 +1,3 @@
 export default function HomePage() {
-  return <h1>Esta es nuestra app</h1>;
+  return <h1>Homepage de la app</h1>;
 }
