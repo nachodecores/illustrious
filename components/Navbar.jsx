@@ -19,7 +19,7 @@ const links = [
 export default function Navbar() {
   return (
     <nav>
-      <ul className={`${styles.navbar} border-red-600`}>
+      <ul className={`${styles.navbar} border bg-slate-100`}>
         {links.map(({ label, route }) => {
           return (
             <li key={route} className="p-4">
